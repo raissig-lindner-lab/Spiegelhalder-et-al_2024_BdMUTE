@@ -1,2 +1,5 @@
-# Spiegelhalder-et-al_2024_BdMUTE
-Excel files and R Script for Spiegelhalder et al. 2024
+Additional files for Spiegelhalder et al. 2024 - Dual role of BdMUTE during stomatal development in the model grass Brachypodium distachyon
+Biorxiv Link: https://www.biorxiv.org/content/10.1101/2024.05.01.592049v1
+Publication Link: https://journals.biologists.com/dev/article/doi/10.1242/dev.203011/361715/Dual-role-of-BdMUTE-during-stomatal-development-in
+
+Same data as https://github.com/lbmountain/Spiegelhalder-et-al_2024_BdMUTE
